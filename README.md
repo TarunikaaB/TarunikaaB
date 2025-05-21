@@ -1,16 +1,49 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Tarunikaa B 👩‍💻</h1>
+<p align="center">Curious | Creative | Code Lover | CSE @ Velammal Engineering College</p>
 
-<!--
-**TarunikaaB/TarunikaaB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### ✨ About Myself
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌟 **Hi, I'm Tarunikaa**, a final-year Computer Science and Engineering student at Velammal Engineering College, Chennai.  
+I have a deep passion for **Python, SQL, Machine Learning, AI, Data Science** and **Data Analytics**.  
+With strong skills in **backend development**, **AI prompting**, and **visual storytelling**, I love building tech solutions that matter.
+
+I thrive in collaborative spaces and enjoy blending **creativity with code** — whether it’s designing Power BI dashboards, choreographing stage performances, or developing predictive ML models.
+
+---
+
+### 💻 Tech Enthusiast
+
+I enjoy crafting practical solutions using:
+- Python & SQL for logic and data manipulation  
+- TensorFlow for building ML models  
+- Power BI for visual analytics  
+- .NET, HTML & CSS for frontend/backend basics  
+
+I’m currently exploring:
+- Real-world datasets  
+- AI prompting and automation  
+- Design-tech intersections
+
+---
+
+### 🌟 Leadership & Achievements
+
+- 🎨 **Design Head, Youth Red Cross (YRC)**  
+- 👩‍💼 **Women Empowerment Cell Coordinator**  
+- 🛠️ **Buildathon Event Coordinator**  
+- 🕺 **Lead Dancer & Choreographer – College Culturals**  
+- 🧠 **Current Intern at L&T Edutech & SQL Data Analyst Internship done**
+
+---
+
+### 📫 Connect With Me
+
+- 📧 Email: [tarunikaabcse@gmail.com](mailto:tarunikaabcse@gmail.com)
+- 🔗 LinkedIn: https://www.linkedin.com/in/tarunikaa-b-3052502b2/
+- 📁 Portfolio: https://drive.google.com/drive/u/0/folders/1jDvkOwDLeKJVcRg7_rzjPDAjHohBz90M
+
+---
+
+<p align="center">“Create with passion. Lead with impact. Code with purpose.”</p>
