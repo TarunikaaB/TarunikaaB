@@ -7,7 +7,7 @@
 
 🌟 **Hi, I'm Tarunikaa**, a final-year Computer Science and Engineering student at Velammal Engineering College, Chennai.  
 I have a deep passion for **Python, SQL, Machine Learning, AI, Data Science** and **Data Analytics**.  
-With strong skills in **backend development**, **AI prompting**, and **visual storytelling**, I love building tech solutions that matter.
+With strong skills in **backend and FullStack development**, **AI prompting**, and **visual storytelling**, I love building tech solutions that matter.
 
 I thrive in collaborative spaces and enjoy blending **creativity with code** — whether it’s designing Power BI dashboards, choreographing stage performances, or developing predictive ML models.
 
