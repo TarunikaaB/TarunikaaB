@@ -43,6 +43,8 @@ I’m currently exploring:
 - 📧 Email: [tarunikaabcse@gmail.com](mailto:tarunikaabcse@gmail.com)
 - 🔗 LinkedIn: https://www.linkedin.com/in/tarunikaa-b-3052502b2/
 - 📁 Portfolio: https://drive.google.com/drive/u/0/folders/1jDvkOwDLeKJVcRg7_rzjPDAjHohBz90M
+- 🎯 SkillRack: https://www.skillrack.com/faces/ui/profile.xhtml
+- 🏅 Leetcode: https://leetcode.com/u/TarunikaaB/
 
 ---
 
