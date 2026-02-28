@@ -34,7 +34,8 @@ I’m currently exploring:
 - 👩‍💼 **Women Empowerment Cell Coordinator**  
 - 🛠️ **Buildathon Event Coordinator**  
 - 🕺 **Lead Dancer & Choreographer – College Culturals**  
-- 🧠 **Current Intern at L&T Edutech & SQL Data Analyst Internship done**
+- 🧠 **Intern at L&T Edutech & SQL Data Analyst Internship done**
+- **Event Coordinator of Hot Seat Event in our department Symposium**
 
 ---
 
